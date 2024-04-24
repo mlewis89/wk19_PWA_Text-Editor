@@ -24,9 +24,10 @@ module.exports = () => {
         title: 'Text Editor'
       }),
       new InjectManifest({
-        swSRC: './src-sw.js',
+        swSrc: './src-sw.js',
         swDest: 'src-sw.js',
       }),
+
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
