@@ -86,6 +86,9 @@ Then use insomnia to communicate with the API interface.
 https://github.com/mlewis89/wk19_PWA_Text-Editor
 
 
+## Render Hosting
+https://wk19-pwa-text-editor.onrender.com/
+
 ## Screenshots / Video of Completed Challenge
 [Vnapshot of the completed application](./assets/Capture.PNG)
 
